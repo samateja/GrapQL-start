@@ -1,6 +1,3 @@
-# GrapQL-start
-GrapQl with Basic
-
 # GraphQL Start
 
 Simple Demo Application
@@ -218,6 +215,3 @@ Facebook Groups:
 
 Reddit:
 [NodeJS](https://www.reddit.com/r/node/comments/7965fy/simple_fullstack_graphql_application_built_with/) &bull; [ReactJS](https://www.reddit.com/r/reactjs/comments/78mtln/simple_fullstack_graphql_application_with_react/) &bull; [GraphQL](https://www.reddit.com/r/graphql/comments/786vpj/simple_fullstack_graphql_application/)
-
-## Resources
-- Start learning by looking at sample codes: [#LearnByExamples](https://github.com/topics/learn-by-examples)
